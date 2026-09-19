@@ -28,7 +28,7 @@ Seluruh solusi ditulis menggunakan **Python 3** dengan prinsip *pattern-based le
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Hash Map | O(n) | O(n) | [solution.py](./0001-two-sum/solution.py) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Hash Map / Counting | O(n) | O(1) | [solution.py](./0242-valid-anagram/solution.py) |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Hash Set | O(n) | O(n) | [solution.py](./0217-contains-duplicate/solution.py) |
-| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers | - | - | Pending |
+| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two Pointers / Slicing | O(n) | O(n) | [solution.py](./0125-valid-palindrome/solution.py) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | - | - | Pending |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | - | - | Pending |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Sliding Window | - | - | Pending |
